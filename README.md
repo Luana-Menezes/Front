@@ -42,5 +42,5 @@ de fontes e aprenda estratégias comuns para melhorar a latência.
 imagens do tamanho certo para sua aplicação em cada contexto de
 visualização.
     - Preview dos projetos:
-      - [Lesson 4 - ](https://htmlpreview.github.io/?https://github.com/Luana-Menezes/udacity-front-end-web-developer-course/blob/master/responsive%20images/Lesson%204%20-%20responsividade%20total/index.html)
+      - [Lesson 4 - responsividade total](https://htmlpreview.github.io/?https://github.com/Luana-Menezes/udacity-front-end-web-developer-course/blob/master/responsive%20images/Lesson%204%20-%20responsividade%20total/index.html)
      
